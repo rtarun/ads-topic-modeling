@@ -19,3 +19,10 @@ Alternative:
 export SPARK_HOME="/Users/tarunruchandani/Desktop/HarvardSummer2016/spark-1.6.1"
 cd $SPARK_HOME
 IPYTHON_OPTS="notebook" ./bin/pyspark
+
+_____________________________________________________________________________________________________________________________
+
+- Extract papers using ADS API
+- Verctorize these papers, and generate a term-document matrix
+- Run Spark-LDA
+- Build JS Matrix
