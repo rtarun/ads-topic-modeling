@@ -3,7 +3,9 @@
 Topic Modeling using Spark LDA on NASA ADS
 
 Testing on Reuters dataset for smaller tests
+_____________________________________________________________________________________________________________________________
 
+ADS API developer key from SAO/NASA ADS is requested here: https://docs.google.com/spreadsheet/viewform?formkey=dFJZbHp1WERWU3hQVVJnZFJjbE05SGc6MQ#gid=0
 _____________________________________________________________________________________________________________________________
 
 Running PySpark on Jupyter:
