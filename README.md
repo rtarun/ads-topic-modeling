@@ -28,3 +28,7 @@ ________________________________________________________________________________
 - Verctorize these papers, and generate a term-document matrix
 - Run Spark-LDA
 - Build JS Matrix
+_____________________________________________________________________________________________________________________________
+
+Visualization is [here](https://gist.github.com/rtarun/a2b64b95ba9d4c9fa6aa67a7da9fdbfe).
+
