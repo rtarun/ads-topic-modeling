@@ -18,7 +18,7 @@ inside $SPARK_HOME
 
 Alternative:
 
-export SPARK_HOME="/Users/tarunruchandani/Desktop/HarvardSummer2016/spark-1.6.1"
+export SPARK_HOME="<sparkhome>"
 cd $SPARK_HOME
 IPYTHON_OPTS="notebook" ./bin/pyspark
 
